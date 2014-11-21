@@ -2,7 +2,9 @@
   "name": "saga",
   "private": true,
   "dependencies": {
-    "jquery": "~1.11.0"
+    "jquery": "~1.11.0",
+    "famous": "~0.3.1",
+    "famous-polyfills": "~0.3.0"
   },
   "devDependencies": {}
 }
