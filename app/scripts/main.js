@@ -12,10 +12,10 @@ var Surface   = famous.core.Surface;
 
 var context = Engine.createContext();
 
-var surface = new Surface({
+var background = new Surface({
   properties: {
-    background: 'red'
+    background: 'black'
   }
 });
 
-context.add(surface);
+context.add(background);
